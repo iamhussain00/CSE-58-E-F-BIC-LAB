@@ -1,5 +1,5 @@
 
-st = input().strip()
+st = input()
 k = int(input())
 
 count = {}
